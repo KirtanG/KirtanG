@@ -25,16 +25,16 @@ I'm excited to explore the depths of machine learning, particularly in the areas
 <img src="https://raw.githubusercontent.com/KirtanG/KirtanG/refs/heads/main/assets/sklearn.png" width="140" height="75" alt="sklearn" >
 <img src="https://raw.githubusercontent.com/KirtanG/KirtanG/refs/heads/main/assets/tensorflow.png" width="75" height="75" alt="tensorflow">
 <img src="https://raw.githubusercontent.com/KirtanG/KirtanG/refs/heads/main/assets/keras.png" width="75" height="75" alt="keras">
-<img src="/assets/pytorch.png" width="75" height="75" alt="keras">
+<img src="/assets/pytorch.png" width="75" height="75" alt="pytorch">
 </div>
 <hr>
 
 ### 💾 Databases
 <div style="display: flex;">
-</div>
 <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="75" height="75" alt="postgresql" >
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png"  height="75" alt="redis" >
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" height="75" alt="mongodb" >
+</div>
 <hr>
 
 ### 🔨 IDE 
