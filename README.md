@@ -11,7 +11,6 @@ I'm excited to explore the depths of machine learning, particularly in the areas
 <div style="display: flex;">
 <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="75" height="75" alt="c" >
 <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="75" height="75" alt="cpp">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png"  height="75" alt="csharp">
 <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="75" height="75" alt="python">
 </div>  
 <hr>
