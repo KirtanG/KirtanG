@@ -115,13 +115,13 @@ I’ve also been learning Russian (slowly 😅). It’s frustrating, but it make
 **Let's connect and collaborate on exciting projects!**
 
 
-<a href="mailto:kirtangoswami97@gmail.com">
+<a href="mailto:kirtangoswami97@gmail.com" style="color: inherit; text-decoration: none;">
     <img src="./icons/mail.svg" width="75" height="75" alt="mail">&nbsp;
 </a>
-<a href="http://www.linkedin.com/in/kirtan-goswami">
+<a href="http://www.linkedin.com/in/kirtan-goswami" style="color: inherit; text-decoration: none;">
     <img src="./icons/linkedin.svg" width="75" height="75" alt="html">&nbsp
 </a>
-<a href="https://discord.com/users/1022056952802594857">
+<a href="https://discord.com/users/1022056952802594857" style="color: inherit; text-decoration: none;">
     <img src="./icons/discord.svg" width="75" height="75" alt="html">&nbsp
 </a>
 
