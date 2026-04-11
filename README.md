@@ -48,7 +48,7 @@ I’ve also been learning Russian (slowly 😅). It’s frustrating, but it make
 - #### Deep Learning 
    <div style="display: flex;">
         <img src="./icons/pytorch.svg" width="75" height="75" alt="pytorch">
-        <img src="./icons/tensorflow.svg" width="75" height="75" alt="tensorflow">&nbsp;
+        <img src="./icons/tensorFlow.svg" height="75" alt="tensorflow">&nbsp;
         <img src="./icons/keras.svg" width="75" height="75" alt="keras">
    </div>
 
